@@ -1,5 +1,8 @@
-### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PersifoX&theme=tokyonight&show_icons=true)
+<br>
+<br>
+<br>
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PersifoX&repo=lidar&theme=tokyonight)](https://github.com/PersifoX/lidar)-->
 <!--
 **PersifoX/PersifoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
