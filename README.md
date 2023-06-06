@@ -1,15 +1,27 @@
-<h3 align="center">Persifox, <code>aka</code> SecondfoX, <code>aka</code> Alternative Vladislav</h3>
+<h3 align="center">Обо мне</h3>
   
-<pre>
+<pre lang="yaml">
 Welcome to ABOUTME OS
 ========================
-root@persifox$ sudo apt install finger
-...
-root@persifox$ finger Persifox<br>
-Login: Persifox                               Name: Persifox
-Directory: /                                  Shell: /bin/bash<br>
-...<br>
-Description: <br><br><strong>Fullstack Developer | Software Engineer<br><br>HTML | CSS | JS => BOOTSTRAP 5 & JQUERY<br>NODE JS | PYTHON | PHP | GOLANG | SQL<br><br>Contributor & Developer: Bonzo, Shoko</strong><br><br>
+root@persifox$ about Persifox<br>
+Имя/Алиасы: Persifox | Secondfox | Alternative Vladislav
+Стек: 
+- Фронтенд:
+HTML | CSS | JS => BOOTSTRAP 5
+- Бэкенд:
+NODE JS | PYTHON | PHP | GOLANG | SQL | Настройка Unix-систем
+Участие в проектах: 
+- Archived: PersifoxSpaceServer (aka PersifoxSpaceLauncher), FnekveeDeveloping, StatusX
+- Alive: Bonzo, Shoko, RebornProject
+Описание: 
+
+Занимаюсь веб (5 лет) и бек (3 года) разработкой.
+Основные яп с- PYTHON, PHP и JS, вспомогательные - GOLANG, R.
+Умею работать с unix-системами. Активно изучаю docker.
+Основная область разработки - дискорд-боты и веб-сервисы.
+
+Внешние ссылки:
+- telegram: @persifox
 root@persifox$ 
 </pre>
   
