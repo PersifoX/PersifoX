@@ -11,8 +11,8 @@ HTML | CSS | JS => BOOTSTRAP 5 & AJAX
 - Бэкенд:
 NODE JS | PYTHON | PHP | GOLANG | SQL | Настройка Unix-систем
 Участие в проектах: 
-- Archived: PersifoxSpaceServer (aka PersifoxSpaceLauncher), FnekveeDeveloping, StatusX, RebornProjet
-- Alive: Bonzo, Shoko, InnerMine
+- Archived: PersifoxSpaceServer (aka PersifoxSpaceLauncher), FnekveeDeveloping, StatusX, RebornProjet, Shoko, InnerMine, Bonzo
+- Alive: ShadowTable, Noir Player (ex. Shoko Player)
 Описание: 
 
 Занимаюсь веб (6 лет) и бек (4 года) разработкой.
