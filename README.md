@@ -24,5 +24,11 @@ NODE JS | PYTHON | PHP | GOLANG | SQL | Настройка Unix-систем
 - telegram: @persifox
 root@persifox$ 
 </pre>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,godot,blender,django,fastapi,discord,bots,go,php,py,dart,nodejs,html,js,css,tailwind,bootstrap,mysql,redis,mongodb,vscode&perline=11" />
+  </a>
+</p>
   
 
