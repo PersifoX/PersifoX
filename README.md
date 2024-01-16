@@ -1,4 +1,4 @@
-<h3 align="center">Обо мне</h3>
+<h3 align="center">Краткая предыстория</h3>
   
 <pre lang="yaml">
 Welcome to ABOUTME OS
@@ -9,16 +9,17 @@ root@persifox$ about Persifox<br>
 - Фронтенд:
 HTML | CSS | SASS | JS => DAISY UI & ANGULAR
 - Бэкенд:
-NODE JS | PYTHON | PHP | GOLANG | SQL | Настройка Unix-систем
+NODE JS | PYTHON | PHP | GOLANG | DART | SQL | LINUX ADM
 Участие в проектах: 
 - Archived: PersifoxSpaceServer (aka PersifoxSpaceLauncher), FnekveeDeveloping, StatusX, RebornProjet, Shoko, InnerMine, Bonzo
 - Alive: ShadowTable, Noir Player (ex. Shoko Player)
 Описание: 
 
-Занимаюсь веб (6 лет) и бек (4 года) разработкой.
-Основные яп - PYTHON, PHP и JS, вспомогательные - GOLANG, R.
-Умею работать с unix-системами. Активно изучаю docker.
-Основная область разработки - дискорд-боты и веб-сервисы.
+Как сам? Как Джек Ниссан!
+Привет! Я Влад, занимаюсь многими вещами в сфере IT,
+по большей части пишу сайты, ботов, веб - сервисы, приложения,
+также увлекаюсь железом, музыкой и графикой.
+Являюсь главным и единственным разработчиком Noir Player ✨
 
 Внешние ссылки:
 - telegram: @persifox
