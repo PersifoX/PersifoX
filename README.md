@@ -7,7 +7,7 @@ root@persifox$ about Persifox<br>
 Имя/Алиасы: Persifox | Secondfox | Alternative Vladislav
 Стек: 
 - Фронтенд:
-HTML | CSS | SASS | JS => DAISY UI & ANGULAR
+HTML | CSS | SASS | JS | TS => DAISY UI & ANGULAR | NEXT JS
 - Бэкенд:
 NODE JS | PYTHON | PHP | GOLANG | DART | SQL | LINUX ADM
 Участие в проектах: 
