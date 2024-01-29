@@ -21,6 +21,7 @@ Description:
 
 Related:
 - telegram: @persifox
+- discord: persifox
 root@persifox$ 
 </pre>
 
