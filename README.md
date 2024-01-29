@@ -1,5 +1,3 @@
-<h3 align="center">Краткая предыстория</h3>
-  
 <pre lang="yaml">
 Welcome to ABOUTME OS
 ========================
