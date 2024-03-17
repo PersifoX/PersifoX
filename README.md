@@ -10,7 +10,7 @@ HTML | CSS | SASS | JS | TS => DAISY UI | NEXT UI & ANGULAR | NEXT JS
 NODE JS | PYTHON | PHP | GOLANG | DART | SQL | LINUX ADM
 Projects: 
 - Archived: PersifoxSpaceServer (aka PersifoxSpaceLauncher), FnekveeDeveloping, StatusX, RebornProjet, Shoko, InnerMine, Bonzo
-- Alive: ShadowTable, Noir Player (ex. Shoko Player)
+- Alive: ShadowTable, Noir Player (ex. Shoko Player), AniShot
 Description: 
 
 Как сам? Как Джек Ниссан!
