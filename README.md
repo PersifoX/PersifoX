@@ -4,20 +4,18 @@ Welcome to ABOUTME OS
 root@persifox$ about Persifox<br>
 Names/Aliases: Persifox | Secondfox | Alternative Vladislav
 Tech Stack: 
-- Frontend:
-HTML | CSS | SASS | JS | TS => DAISY UI | NEXT UI & ANGULAR | NEXT JS
-- Backend:
-NODE JS | PYTHON | PHP | GOLANG | DART | SQL | LINUX ADM
+  - Frontend:
+  HTML | CSS | SASS | JS | TS => DAISY UI | NEXT UI & ANGULAR | NEXT JS
+  - Backend:
+  NODE JS | PYTHON | PHP | GOLANG | DART | SQL | LINUX ADM
 Projects: 
-- Archived: PersifoxSpaceServer (aka PersifoxSpaceLauncher), FnekveeDeveloping, StatusX, RebornProjet, Shoko, InnerMine, Bonzo
-- Alive: ShadowTable, Noir Player (ex. Shoko Player), AniShot
+  - Archived: 
+  PersifoxSpaceServer (aka PersifoxSpaceLauncher), FnekveeDeveloping, StatusX, RebornProjet, Shoko, InnerMine, Bonzo
+  - Alive: 
+  NoirGloves, Noir Player (ex. Shoko Player), AniShot
 Description: 
 
-Как сам? Как Джек Ниссан!
-Привет! Я Владислав, занимаюсь многими вещами в сфере IT,
-по большей части пишу сайты, ботов, веб - сервисы, приложения,
-также увлекаюсь железом, музыкой и графикой.
-Являюсь главным и единственным разработчиком Noir Player ✨
+  Is it worth it?...
 
 Related:
 - telegram: @persifox
