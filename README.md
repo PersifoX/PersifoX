@@ -20,7 +20,6 @@ Description:
   Is it worth it?...
 
 Related:
-- telegram: @persifox
 - discord: persifox
 root@persifox$ 
 </pre>
