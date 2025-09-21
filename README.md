@@ -4,7 +4,9 @@
 
 </div>
 
----
+<br/>
+<br/>
+<br/>
 
 <div align="start">
 
@@ -24,10 +26,14 @@
 
 </div>
 
----
+<br/>
+<br/>
+<br/>
+
+<div align="center">
 
 ![:Persifox](https://count.getloli.com/@:Persifox)
 
-
+</div>
   
 
